@@ -1,0 +1,17 @@
+.button {
+    -fx-background-color: white;
+}
+
+.appbar {
+    -fx-background-color: white;
+}
+
+.tool-bar {
+    -fx-background-color: white;
+}
+
+.search-bar {
+    -fx-background-color: whitesmoke;
+    -fx-border-color: whitesmoke;
+    -fx-border-radius: 20px;
+}
